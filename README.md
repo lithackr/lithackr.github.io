@@ -1,2 +1,3 @@
 # lithackr.github.io
-My Articles are located @ https://medium.com/@lithackr
+# lithackr.com
+My articles are located @ https://medium.com/@lithackr
